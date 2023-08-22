@@ -1,6 +1,6 @@
 # Projeto calculadora
 ![](./img/calculator.png)
-## Meu primeiro porjeto no mundo da programação.
+## Meu primeiro projeto pessoal no mundo da programação.
 ---
 ## Ideias iniciais:
 - Conhecer a lógica de programação com Javascript
