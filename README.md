@@ -6,8 +6,6 @@
 - Conhecer a lógica de programação com Javascript
 - Modelar o css de um forma bem simples.
 - Utilizar algumas funcionalidades com bootstrap.
-
-![](./img/dark.png)
 ---
 ## Tecnologias Utilizadas:
 - HTML
